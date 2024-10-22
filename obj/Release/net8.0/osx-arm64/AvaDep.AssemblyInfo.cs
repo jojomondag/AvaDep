@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvaDep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f307c1c6759e0f92cacd30065ec8b5a9e746aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438764eb2c66da532e7d70c4dbc09a862606edb3")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvaDep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvaDep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
